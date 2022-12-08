@@ -7,5 +7,5 @@ In this tutorial, you will learn all of the necessary items needed to create a b
 The target audience of this tutorial is anyone who is wanting to learn basics about HTML or if they need a refresher on some of the elements that HTML provides.
 
 + [What is HTML?](https://github.com/ClaudiaFue/What-Is-HTML.git)
-+ [Basic HTML Code]
++ [Basic HTML Code](https://github.com/ClaudiaFue/HTML-Basics.git)
 + [HTML Examples]
