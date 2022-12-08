@@ -8,4 +8,4 @@ The target audience of this tutorial is anyone who is wanting to learn basics ab
 
 + [What is HTML?](https://github.com/ClaudiaFue/What-Is-HTML.git)
 + [Basic HTML Code](https://github.com/ClaudiaFue/HTML-Basics.git)
-+ [HTML Examples]
++ [HTML Examples](https://github.com/ClaudiaFue/HTML-Examples.git)
